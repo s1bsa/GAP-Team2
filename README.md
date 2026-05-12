@@ -1,6 +1,7 @@
 # GAP-Team2
 
 Repository for Team 2 Small Group Project for the 5CCSAGAP module
+~I worked on the UI for this group project~
 
 ## Overview
 
