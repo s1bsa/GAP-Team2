@@ -1,0 +1,18 @@
+# OS
+.DS_Store
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Models / checkpoints
+*.pt
+*.pth
+# Outputs / logs
+eval_out/
+runs/
+# VIRTUAL ENVIRONMENT
+/.venv
+venv
+lib/python3.10/site-packages/torch/lib/libtorch_cpu.dylib 
+processed_dataset_*/
+model/__pycache__/*.bak
